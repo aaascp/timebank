@@ -1,2 +1,4 @@
 node_modules
 dev.js
+localhost.key
+localhost.crt
